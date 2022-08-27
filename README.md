@@ -211,8 +211,10 @@ addEventListener(
 * [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
 * [yxhit](https://github.com/yxhit)
 * [badafans](https://github.com/badafans/better-cloudflare-ip/tree/20201208)
+</details>
 
 <details>
- [神秘链接](https://iecou.com/heroku-mian-fei-vps/)
+<summary>¿</summary>
+[神秘链接](https://iecou.com/heroku-mian-fei-vps) `awa`
 </details>
  
