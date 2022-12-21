@@ -1,4 +1,5 @@
-## 使用Heroku部署V2ray高性能代理服务，通过ws传输的 (VMess和VLESS)两种协议
+## ~~使用Heroku部署V2ray高性能代理服务，通过ws传输的 (VMess和VLESS)两种协议~~
+已废弃，因Herokuのfree计划已经无了
 
 > 提醒： Heroku 已经封禁本专案，请 Fork 本专案后，将 README.md 中的 用户名 替换为 自己的用户名
 
